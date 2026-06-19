@@ -1,10 +1,14 @@
 # Hi, I'm Hemish 👋
+
 ---
 
 Computer Science, Finance, and Data Science Major at the Rutgers Honors College — creating systems that automate workflows.
 
-### Proficient in
+<br/> 
+<br/>
+
+### Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,r,git&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,r,java,c,js,ts,nodejs,html,css,latex" />
 </p>
