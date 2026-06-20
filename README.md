@@ -1,11 +1,11 @@
-# Hi, I'm Hemish 👋
+# Hi there, I'm Hemish 👋
 
 ---
 
-Computer Science, Finance, and Data Science Major at the Rutgers Honors College — creating systems that automate workflows.
+I create systems that automate workflows. I specialize in leveraging scalable frameworks, modern APIs, and cloud services to build reliable, maintainable software. I enjoy working across backend services, data pipelines, and full-stack development.
+
 
 <br/> 
-<br/>
 
 ### Tech stack
 
