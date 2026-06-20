@@ -11,5 +11,6 @@ Currently studying computer science at the Rutgers University Honors College.
 ### Proficient In:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,r,java,c,js,ts,nodejs,html,css,latex" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,r,js,ts,nodejs,html,css,latex,aws&perline=11" />
+
 </p>
