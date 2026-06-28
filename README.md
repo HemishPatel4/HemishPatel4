@@ -4,7 +4,7 @@
 
 I create software to automate workflows. I specialize in leveraging scalable frameworks, modern APIs, and cloud services to build reliable, maintainable systems. I enjoy working across backend services, data pipelines, and full-stack development.
 
-Currently studying computer science at the Rutgers University Honors College.
+Currently studying computer science at the Rutgers University Honors College in New Brunswick, NJ.
 
 <br/> 
 
